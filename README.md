@@ -32,9 +32,9 @@
 
 <!-- Formas de contato -->
 <div>
-<a href = "mailto:pedrohmsousa2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:pedrohmsousa2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-henrique-mendes-78a59325a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PedroHenrique2107/PedroHenrique2107/blob/output/github-contribution-grid-snake.svg)
 
 </div>
