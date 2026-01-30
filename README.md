@@ -1,6 +1,6 @@
 ## Olá seja bem-vindo ao meu Repositório 👋
 
-- 🔭 Atualmente estou trabalhando em: Uma construção de uma Startup Tech
+- 🔭 Atualmente estou trabalhando: Desenvolvedor de Software  
 - 🌱 Atualmente estou aprendendo: Nodejs, Golang e Docker
 - 🤔 Estou procurando trabalho em: Desenvolvedor Back/Front e DevOps 
 - 😄 Pronomes: Ele/dele
