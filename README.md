@@ -1,32 +1,94 @@
-## Olá seja bem-vindo ao meu Repositório 👋
+# Pedro Henrique
 
-- 🔭 Atualmente estou trabalhando: Desenvolvedor de Software  
-- 🌱 Atualmente estou aprendendo: Nodejs, Golang e Docker
-- 🤔 Estou procurando trabalho em: Desenvolvedor Back/Front e DevOps 
-- 😄 Pronomes: Ele/dele
-
-<!-- Gráficos e informações do repositório -->
 <div align="center">
-  <a href="https://github.com/PedroHenrique2107">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenrique2107&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique2107&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" />
-  </a>
+
+<img src="SEU_BANNER_AQUI" width="100%" />
+
+# 👋 Hi, I'm Pedro Henrique
+
+### Software Engineer | FullStack | Scalable Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;APIs+%26+Automations;Cloud+%26+High+Performance+Backends;SaaS+B2B+Solutions" />
+
 </div>
 
-<!-- Icones e ferramentas tech usadas -->
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Dev-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Dev-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Dev-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Dev-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Dev-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-  <img align="center" alt="Dev-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Dev-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Dev-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="Dev-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="Dev-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Dev-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" alt="Dev-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+---
+
+## 🧠 About Me
+
+```bash
+> whoami
+```
+
+- 🧑‍💻 Software Engineer focused on building scalable and high-performance systems  
+- 🚀 Experience developing full SaaS B2B platforms and automation solutions  
+- ⚙️ Strong focus on architecture, performance and innovation  
+- ☁️ Currently diving deep into AWS, Docker and Cybersecurity  
+- 🎯 Goal: Master distributed systems, cloud-native architecture and scalable backend engineering  
+
+---
+
+## ⚡ Tech Stack
+
+### 🧩 Languages
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+### 🚀 Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenrique2107&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique2107&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHenrique2107&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-mendes-78a59325a/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://portifolio-pedro-six.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=PedroHenrique2107&color=00F7FF&style=for-the-badge" />
+
 </div>
 
 ##
