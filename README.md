@@ -30,33 +30,29 @@
 
 ## ⚡ Tech Stack
 
+## 🧰 Languages & Tools I Have Placed My Hands On
+
+<div align="center">
+
 ### 🧩 Languages
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+<img src="https://skillicons.dev/icons?i=python,go,ts,js,css,html" />
 
 ### 🚀 Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+<img src="https://skillicons.dev/icons?i=nodejs,npm,yarn,nestjs,express,fastapi,flask,aiscript,bash,bootstrap,bun,jquery,matlab,opencv" />
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+<img src="https://skillicons.dev/icons?i=react,nextjs,pnpm,vite,vitest,vue" />
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 
 ### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,grafana" />
 
+### 🛠️ Tools & Platform
+<img src="https://skillicons.dev/icons?i=figma,vercel,sentry,windows,linux,debian,ubuntu,eclipse,vscode,replit,git,github,gitlab,graphql,ai,obsidian,postman" />
+
+</div>
 ---
 
 ## 📊 GitHub Analytics
