@@ -59,14 +59,25 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenrique2107&show_icons=true&theme=tokyonight&hide_border=true" />
+### 🧑‍💻 Developer Profile
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique2107&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/GitHub-OWNER-000000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/followers/PedroHenrique2107?style=for-the-badge&logo=github&label=Followers&color=3fb950" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHenrique2107&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroHenrique2107&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PedroHenrique2107&theme=github-dark-blue&hide_border=true&border_radius=12" />
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroHenrique2107&theme=github_dark&utcOffset=-3" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroHenrique2107&theme=github_dark" />
 
 </div>
-
 ---
 
 ## 🌐 Connect with me
