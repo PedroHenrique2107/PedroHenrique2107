@@ -35,13 +35,13 @@
 <div align="center">
 
 ### 🧩 Languages
-<img src="https://skillicons.dev/icons?i=python,go,ts,js,css,html" />
+<img src="https://skillicons.dev/icons?i=python,go,ts,cs,js,css,html" />
 
 ### 🚀 Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=nodejs,npm,yarn,nestjs,express,fastapi,flask,aiscript,bash,bootstrap,bun,jquery,matlab,opencv" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,pnpm,vite,vitest,vue" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,pnpm,vite,vitest,vue,angular" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
@@ -53,7 +53,6 @@
 <img src="https://skillicons.dev/icons?i=figma,vercel,sentry,windows,linux,debian,ubuntu,eclipse,vscode,replit,git,github,gitlab,graphql,ai,obsidian,postman" />
 
 </div>
----
 
 ## 📊 GitHub Analytics
 
