@@ -223,11 +223,23 @@ src="https://streak-stats.demolab.com?user=PedroHenrique2107&hide_border=true&bo
 
 <div align="center">
 
-<img
-width="100%"
-src="https://raw.githubusercontent.com/PedroHenrique2107/PedroHenrique2107/output/github-contribution-grid-snake.gif"
-alt="GitHub contribution snake"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PedroHenrique2107/PedroHenrique2107/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PedroHenrique2107/PedroHenrique2107/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    width="100%"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/PedroHenrique2107/PedroHenrique2107/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <br>
 
