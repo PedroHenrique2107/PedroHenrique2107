@@ -23,7 +23,7 @@
 - 🧑‍💻 Software Engineer focused on building scalable and high-performance systems  
 - 🚀 Experience developing full SaaS B2B platforms and automation solutions  
 - ⚙️ Strong focus on architecture, performance and innovation  
-- ☁️ Currently diving deep into AWS, Docker and Cybersecurity  
+- ☁️ Currently diving deep into AWS, Docker and Software Engineer  
 - 🎯 Goal: Master distributed systems, cloud-native architecture and scalable backend engineering  
 
 ---
